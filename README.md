@@ -3,3 +3,5 @@ Dimensionality reduce the neural activity of C. elegans and fit a nonlinear cont
 
 
 This is the supplementary code to the paper _Neuro-sensory integration in the nematode C. elegansas anonlinear dynamical system with control_.
+
+This code will give you a general idea of what to do

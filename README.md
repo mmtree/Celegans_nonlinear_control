@@ -12,7 +12,7 @@ This notebook reproduces select results from the paper "Neuro-sensory integratio
 
 
 
-## C. elegans dimensionality reduction
+## C. elegans dimensionality reduction <a name="Celegans"></a>
 
 ![Image description](figures/PCA_Celegans.png)
 
@@ -21,7 +21,7 @@ This notebook reproduces select results from the paper "Neuro-sensory integratio
 
 
 
-## Nonlinear control model
+## Nonlinear control model <a name="nonlin_control"></a>
 
 ![Image description](figures/nonlin_control_model.png)
 

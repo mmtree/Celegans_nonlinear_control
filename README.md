@@ -23,7 +23,7 @@ This notebook reproduces select results from the paper "Neuro-sensory integratio
 
 ## Nonlinear control model <a name="nonlin_control"></a>
 
-$ \sum_{\forall i}{x_i^{2}} $
+
 
 ![Image description](figures/nonlin_control_model.png)
 

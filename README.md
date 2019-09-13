@@ -9,3 +9,9 @@ This notebook reproduces select results from the paper "Neuro-sensory integratio
 1. [_C. elegans_ dimensionality reduction](#Celegans)
 2. [Nonlinear control model](#nonlin_control)
 3. [Compare distributions](#compare_dist)
+
+
+
+## C. elegans dimensionality reduction
+
+![Image description](figures/PCA_Celegans.png)

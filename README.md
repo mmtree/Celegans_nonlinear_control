@@ -27,6 +27,6 @@ This notebook reproduces select results from the paper "Neuro-sensory integratio
 
 
 
-## Compare distributions
+## Compare distributions <a name="compare_dist"></a>
 
 ![Image description](figures/KL_distributions.png)

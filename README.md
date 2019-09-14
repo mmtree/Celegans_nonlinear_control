@@ -23,7 +23,9 @@ This notebook reproduces select results from the paper "Neuro-sensory integratio
 
 ## Nonlinear control model <a name="nonlin_control"></a>
 
+The 
 
+<img src="figures/control_model_eq.png" width="500">
 
 ![Image description](figures/nonlin_control_model.png)
 

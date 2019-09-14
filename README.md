@@ -26,7 +26,7 @@ This nonlinear control model is a system of stochastic differential equations wi
 
 <img src="figures/control_model_eq.png" width="500">
 
-Where &sigma; is the diffusion term, &gamma; is the damping term, +1, -1, and &beta; are the fixed points of the system, and _u(t)_ is the control signal.
+Where &sigma; is the diffusion term, &gamma; is the damping term, +1, -1, and &beta; are the fixed points of the system, and u(t) is the control signal. In order to simulate the movement between fixed points the system is hit with a control signal with average frequency &omega;. We measure the distribution of time spend in different states along the x dimension.
 
 ![Image description](figures/nonlin_control_model.png)
 

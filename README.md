@@ -22,7 +22,7 @@ This notebook reproduces select results from the paper "Neuro-sensory integratio
 
 ## Nonlinear control model <a name="nonlin_control"></a>
 
-The nonlinear control model is a system of stochastic differential equations with diffusion term
+The nonlinear control model is a system of stochastic differential equations with two stable fixed points and a control signal that eliminates a given fixed point in order to transition the system to the other fixed point.
 
 <img src="figures/control_model_eq.png" width="500">
 

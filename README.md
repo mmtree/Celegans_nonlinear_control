@@ -20,12 +20,13 @@ This notebook reproduces select results from the paper "Neuro-sensory integratio
 
 
 
-
 ## Nonlinear control model <a name="nonlin_control"></a>
 
-The 
+The nonlinear control model is a system of stochastic differential equations with diffusion term
 
 <img src="figures/control_model_eq.png" width="500">
+
+Where &sigma; is the diffusion term, &gamma; is the damping term, +1, -1, and &beta; are the fixed points of the system, and _u(t)_ is the control signal.
 
 ![Image description](figures/nonlin_control_model.png)
 

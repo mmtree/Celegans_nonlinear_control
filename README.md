@@ -14,7 +14,7 @@ This notebook reproduces select results from the paper "Neuro-sensory integratio
 
 ## C. elegans dimensionality reduction <a name="Celegans"></a>
 
-The neural activity of _C. elegans_ exists on a low dimensional manifold. This means that an approximation of its activity can be represented with the first two PCA modes. Our mean-centered neural timeseries __X__ is size _mxn_ where _m_ is the number of neurons and _n_ is the number of timepoints. We take the singular value decomposition __X = U &Sigma; V*__ and focus on the timeseries of the initial modes, __v<sub>1</sub>__ and __v<sub>2</sub>__.  The _C. elegans_ transitions through 7 different behavioral states - forward, slow forward, backward, dorsal turn, ventral turn, reversal 1, and reversal 2.
+The neural activity of _C. elegans_ exists on a low dimensional manifold.  Because of this, we approximate its activity with the first two PCA modes. Our mean-centered neural timeseries __X__ is size _mxn_ where _m_ is the number of neurons and _n_ is the number of timepoints. We take the singular value decomposition __X = U &Sigma; V*__ and focus on the timeseries of the initial modes, __v<sub>1</sub>__ and __v<sub>2</sub>__.  The _C. elegans_ transitions through 7 different behavioral states - forward, slow forward, backward, dorsal turn, ventral turn, reversal 1, and reversal 2.
 
 ![Image description](figures/PCA_Celegans.png)
 

@@ -35,7 +35,7 @@ Where &sigma; is the diffusion term, &gamma; is the damping term, +1, -1, and &b
 
 
 ## Compare distributions <a name="compare_dist"></a>
-Because the _C. elegans_ activity is stochastic, we cannot directly measure the fit of the model by comparing trajectories in the data.  We instead compare the state distributions.  We measure the extent to which one of our distributions differs from the other with the Kullback–Leibler divergence. Identical distributions have a KL divergence score of 0, while disparate distributions have a very large KL divergence score.
+Because the _C. elegans_ activity is stochastic, we cannot directly measure the fit of the model to the data by comparing trajectories.  We instead compare the state distributions.  We measure the extent to which one of our distributions differs from the other with the Kullback–Leibler divergence. Identical distributions have a KL divergence score of 0, while disparate distributions have a very large KL divergence score.
 
 <img src="figures/KL_eq.png" width="300">
 
